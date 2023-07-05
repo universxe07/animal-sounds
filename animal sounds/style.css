@@ -1,0 +1,45 @@
+body{
+
+    font-family: 'Alfa Slab One', cursive;
+    background-color:rgb(177, 255, 172);
+}
+
+.header_div{
+
+    color:white;
+    background-color:rgb(110, 174, 88);
+    letter-spacing: 1px;
+}
+
+.header_div p{
+
+    font-family: 'Indie Flower', cursive; 
+    color: black;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.main_div button{
+
+    font-family: 'Itim', cursive;
+    margin-top: 50px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing :3px;
+    background-color: rgb(110, 174, 88);
+}
+
+.copy_right_footer{
+
+    position:fixed;
+    color: aliceblue;
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(129, 228, 111);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(184, 184, 184);
+
+}
